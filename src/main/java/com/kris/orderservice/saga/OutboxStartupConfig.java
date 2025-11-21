@@ -40,6 +40,5 @@ public class OutboxStartupConfig {
         for (OutboxEvent event : inProgressEvents) {
             event.setStatus(OutboxStatus.PENDING);
         }
-        // no explicit save() needed; JPA will flush on commit
     }
 }
