@@ -316,11 +316,11 @@ src/main/java/com/kris/orderservice/
 
 ## License
 
-This project is a demonstration application for educational purposes.
+This project is a demonstration application for Techinical Assignment — Multi-Tenant Order Processing Service.
 
 ## Author
 
-Krishnan
+Krishnan K V
 
 ---
 
